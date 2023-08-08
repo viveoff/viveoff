@@ -1,3 +1,4 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw2VW8uHUNMcVou4ivOp4att&ust=1691609649917000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj454LozYADFQAAAAAdAAAAABAE)
 <h3 align="left">hi, i'm vlad</h3>
 <h3 align="left">i'm currently studying Foundations Course by The Odin Project</h3>
 
