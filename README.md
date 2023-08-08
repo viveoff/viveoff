@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">I'm currently studying Foundations Course by The Odin Project</h3>
+<h3 align="left">hi, i'm vlad</h3>
+<h3 align="left">i'm currently studying Foundations Course by The Odin Project</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
